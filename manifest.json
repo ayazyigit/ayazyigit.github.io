@@ -1,0 +1,267 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://slip.slipyme.com/",
+  "seed_origin": "https://slip.slipyme.com:443",
+  "seed_host": "slip.slipyme.com",
+  "final_url": "https://slip.slipyme.com/",
+  "final_host": "slip.slipyme.com",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-11-04T18:55:38.786311Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 56,
+    "total_asset_bytes": 3189269
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 56,
+    "assets_included": 56,
+    "assets_excluded": 0
+  },
+  "excluded": [],
+  "mapping": {
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Flogo.png&w=32": {
+      "local_path": "assets/798aafb529346b1ce1a9b312af683adec8f5f84818491f6309d642ebf66e1122.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Flogo.png&w=3840": {
+      "local_path": "assets/394671c11615aaa7e43c4d3ddc482648f8af356c63500d9850ceea50ca82e6cc.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2F2048%2F1.png&w=32": {
+      "local_path": "assets/65aa1cafaec6e733fd712e842b7fe795c094752a1260a82984e1935be204b0cf.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2F2048%2F1.png&w=3840": {
+      "local_path": "assets/633d33d444b24619c4f641644abf0355397636a6cc30cb3b4c43d1f3e058cece.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fmarpel%2F1.png&w=32": {
+      "local_path": "assets/5200238f955468e2139747ad09d3a5f1ccf4d570debfaa1ac1825a9626074f94.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fmarpel%2F1.png&w=3840": {
+      "local_path": "assets/44eafacebdcb2b471fa71145d749417b7fe1f7caede25e4687b4025277cf4d2d.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fmemory-game%2F1.png&w=32": {
+      "local_path": "assets/7a5f8b00908ca326b578e38dd99212fa75f57550f95be8575af4305ce2f0f907.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fmemory-game%2F1.png&w=3840": {
+      "local_path": "assets/6c691f3a6f13c6032619bf4188f5c7a98bad840a4e83a067fb9b3b8bee72ad0c.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fminefield%2F1.png&w=32": {
+      "local_path": "assets/497459e90f6fd8b939f36a30d4ff55770c312998e33bceee8ce64b3bec0933d2.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fminefield%2F1.png&w=3840": {
+      "local_path": "assets/03dca915e05366d0d8bad93317109a6f415a87c14e0b2efd8241ba6ce7466f15.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Foguzhan%2F1.png&w=32": {
+      "local_path": "assets/debdbda113984474cd7b88dad72736c78b4a79795d29cbdb8ded0182132d4654.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Foguzhan%2F1.png&w=3840": {
+      "local_path": "assets/5037b69e401af5776b00625e898f8fe8a29bd13a632bc6a871976f01962088d2.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fslipyme%2F1.png&w=32": {
+      "local_path": "assets/538ac76fa556c60fff043ead140f0a4fb6e1bccbbf1a3fcd3b6697cda2698259.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fslipyme%2F1.png&w=3840": {
+      "local_path": "assets/65177366b9eb6f32e3a0675c13bd42175859bb72b1bd5138b3e27b9a172117b9.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fsnake-game%2F1.png&w=32": {
+      "local_path": "assets/13283877321b8873eb8865fecda5e56bc0d0341f4fcf2e25af417ce3aabf866d.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fprojects%2Fsnake-game%2F1.png&w=3840": {
+      "local_path": "assets/7f5f50f03b91dfd77735fda7caf884ea5b9718ade616612aa97be309edb16c96.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fslipbey.png&w=256": {
+      "local_path": "assets/0367091d39a11bbd792f563786183e30a002b467a2c816006175afbce9153d9b.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=%2Fimages%2Fslipbey.png&w=3840": {
+      "local_path": "assets/6b748b296487d8c6807d8a830b039b045072d2b106ce4ae07359f8c8487a9388.png",
+      "content_type": "image/png"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F27G0z2uwI60%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/80a2f6bcdde5d9faa580a1585d3d944f85ea55a5908cc562491edef0e28e8b39.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F27G0z2uwI60%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/593a0b346a5528df20da7f2ef57e07c7cd1085d7523d6a7b3f24bf4eb2292bd5.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F37ZkHpjskX4%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/65c961bbbc56463e5944f6c99b0b07183f8c736351c486721a9ce915142e0681.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F37ZkHpjskX4%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/d1c6f5428c6ac3aceafdcd4f9e3e9bdbc9c7e7ed76eba84e41705c6da7ff9c9c.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMqqdiUr61tc%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/19907c93f25aab102f66fd87ca61fcf6ef5d7c3ceee621cb809bc17eb00d2d4d.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMqqdiUr61tc%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/795fc0b4e87a8dd1c0ad0ceb17f8b5eac578bd44ec21a43afb7cced31d8d3f1b.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcZzUHA78sNc%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/4fce8518ea4c2c89e2f84d5be4364433bf1e4b8ca25cfa7b4cbfd5ee15410774.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcZzUHA78sNc%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/f15298b471c3ed66d991abe837619f19aa86a7e63d08211665b80669d7e09b3c.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fferr-8wdT-U%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/e97848f07b5915c2df376b2952f9b699c126076894d5fc79c2ff7e0836f541f0.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fferr-8wdT-U%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/44a95cc6703a03830815a848ef11eda19a4eabd4332cff8fcf115ad7008b61d1.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FooQJcyelU_4%2Fmqdefault.jpg&w=256": {
+      "local_path": "assets/081ad8f58af9fc6b14a36f0f2a124bf275bcee12058c21c5ddf018552caa196f.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/image?q=75&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FooQJcyelU_4%2Fmqdefault.jpg&w=3840": {
+      "local_path": "assets/632d235484df4d8768eb2d7e7e6454dca178b2ce7da752a135d417e0b24d34d2.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/078mpbl8d04hf.js": {
+      "local_path": "assets/d5e348be287ca7c5fcda9742a1e31ffdb65fc98d50eeee0ac78059d3995473c3.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/0cdi3bfr-9jl0.js": {
+      "local_path": "assets/ade250a6e4fb13f295fea36441e969f41d3bccca9bc9af18b6ea2c636cfe9823.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/0cz1d0mv5g_q7.js": {
+      "local_path": "assets/0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/0paxexg6-m0de.js": {
+      "local_path": "assets/cf66c2368eaf773555b60cda3d490b14c8e8c4b949d16b5062c9d8df41350566.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/0x55l85laf5dd.js": {
+      "local_path": "assets/f1ab13c24f8f7cde46db580f7a2c2d70c1102a8d4df73b9a3a079915313b9aa0.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/13g7k129pcsup.js": {
+      "local_path": "assets/d008cdef1ba55c29ea40f4b260ab91d84ed341cf28013295dbaa24577cd72dae.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/14mrh2-p_w84d.js": {
+      "local_path": "assets/a3ac200f3ab8bfa57cf78882057741ddb5c0fbc9e2490c5d951c099b37484206.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/15p4f1sztk9g6.js": {
+      "local_path": "assets/379b431e46a78270e2e64d64684f35f07060c891203dd8cfe621b683616bc276.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/1hj6u_lknzvwf.css": {
+      "local_path": "assets/994cdfaab618c2334eae6f1763ac8481ebaeb57cb7230d04e6d491d09def8e1e.css",
+      "content_type": "text/css; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/1lhygu4pg6_8f.js": {
+      "local_path": "assets/4fbd086f155dfc96d4cb0025867c550a2aa8b82e38b988ee1bd72a3e99810ae6.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/1pcj64bj7glqt.js": {
+      "local_path": "assets/b998ff5d36dfd252b2a8b4982873e9df4018e1f159394f4ea680a94d7b6fd65f.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/1te9gbwy34rcc.js": {
+      "local_path": "assets/37de834da69ed7b69c92ce5ef90fc12bd1d169f42997699583f76cb5cbf41ad5.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/1upe53-127sm4.js": {
+      "local_path": "assets/ff664995e84707cdd256ec44ddf8b53b08a969449c7128707404f914c3b33511.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/23-4ug_hfpu31.js": {
+      "local_path": "assets/b75b2b6e81e0ae9d12b349d32a3b2f02f162d92c2a0d77aa19cff95fc3d6e3bb.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/2e5sh6ubf_rem.css": {
+      "local_path": "assets/08e1d3b2ff453e5109474fa853c3df7f9e9d694cfb934de6324dfa51cc2efc9e.css",
+      "content_type": "text/css; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/2zzj15z21azzs.js": {
+      "local_path": "assets/688cfa587213095b3ab0a1d09e45484b80eb6d68fbd5fb5d53a2cd63d8f3e21d.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/31b72b7snvm5r.js": {
+      "local_path": "assets/ce8842bf07c6f72b2978d00398b62cd52f26e3cd32ceb7e31062ded56ffb3281.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/3ed844u4toalr.js": {
+      "local_path": "assets/cc7db10ac0e457601405ee4fc3943c5aa6d8b16f806831d187f450b711da9dfc.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/3jsml008oaptf.js": {
+      "local_path": "assets/c6fa7128d99ff173a5f12d829bae9878b8c64b9f805cf5164065b3d3b8c61292.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/3piepmm47cc3f.css": {
+      "local_path": "assets/aebbad4d7d5ab114695b464b75105c668d4bec656ab2578a27a828e0379024e8.css",
+      "content_type": "text/css; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/chunks/turbopack-21o9ghxwunqcq.js": {
+      "local_path": "assets/46e71118e724c8d0fb9aeb61e42273a099551107197cb1eb017c1ed8eac494c6.js",
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "https://slip.slipyme.com/_next/static/media/0b1dc8ddaa74ba49-s.0e__wj8580tc5.woff2": {
+      "local_path": "assets/a16f29d7d2a21a4f9b3249a82eb2725ed5bdb91500dfb5c4758977de27477f20.bin",
+      "content_type": "font/woff2"
+    },
+    "https://slip.slipyme.com/_next/static/media/1a099d89ee94ee96-s.35a5cae5tspm2.woff2": {
+      "local_path": "assets/0303e02b53b0298fb26a0193941a2e8754f0f9a9fce50d90b178d8da3424873f.bin",
+      "content_type": "font/woff2"
+    },
+    "https://slip.slipyme.com/_next/static/media/e629b5bc06499d58-s.10u7vx61f1ie7.woff2": {
+      "local_path": "assets/5c913fc1b1f86f4b475e5df45a796aa480d1f7f0891ed6f1a5991d6d1be887c3.bin",
+      "content_type": "font/woff2"
+    },
+    "https://slip.slipyme.com/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2": {
+      "local_path": "assets/cd8db90cd950e26bc8761f65d323588bd5cd112d326d6d322bc7c8ea86771215.bin",
+      "content_type": "font/woff2"
+    },
+    "https://slip.slipyme.com/images/logo.png": {
+      "local_path": "assets/2bc714a588c001de97e7d8d0bd2cecdf002f7efc86e38ea5aa5c12eae7ac2163.png",
+      "content_type": "image/png"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 18,
+    "meaningful_elements": 126,
+    "text_content_length": 3194
+  }
+}
